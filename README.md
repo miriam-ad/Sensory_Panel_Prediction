@@ -9,8 +9,8 @@ under nested leave-one-out cross-validation.
 
 | File | Purpose |
 |---|---|
-| `01_panel_data_cleaning.ipynb` | Cleans the raw sensory panel data and saves `panel_cleaned.csv` |
-| `02_descriptive_analysis_modelling_final.ipynb` | Descriptive analysis and all models reported in the thesis |
+| `Sensory_Panel_Data_Cleaning.ipynb` | Cleans the raw sensory panel data and saves `panel_cleaned.csv` |
+| `Sensory_Panel_Modelling.ipynb` | Descriptive analysis and all models reported in the thesis |
 
 ## How to run
 
